@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://chuyang:166800@devconnector-ofsa4.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "mySecretToken",
+    "githubClientID": "a4c0e8a035398353839e",
+    "githubSecret": "ccf74c0b5018e9667d51865a2f929f17101fa852"
+}
