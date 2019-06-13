@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
@@ -24,6 +25,7 @@
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
+    "gh-pages": "^2.0.1",
     "nodemon": "^1.19.1"
   }
 }
