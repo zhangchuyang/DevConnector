@@ -42,7 +42,7 @@ const App = () => {
     <Router>
       <Fragment>
         <Navbar/>
-        <Route exact path='/DevConnector' component={Landing}/>
+        <Route exact path='/' component={Landing}/>
         <section className='container'>
           <Alert />
           <Switch>
